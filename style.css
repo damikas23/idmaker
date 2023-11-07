@@ -1,0 +1,37 @@
+body {
+    background-color: #FC33FF;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    margin-bottom: 100px;
+    }
+
+#idCard {
+    border: 5px solid black;
+    height: 14em;
+    width: 25em;
+    background-color: silver;
+    text-align: center;
+    display: inline-block;
+    border-radius: 25px;
+    font-family: 'Mali';
+    padding: 10px;
+}
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+    
+
+}
+#postFullName {
+    font-size: 30px;
+}
+#special {
+    font-size: 15px;
+    text-align: left;
+    
+
+}
