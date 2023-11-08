@@ -5,7 +5,7 @@ function idCard(){
     var phoneNumber = document.getElementById('phoneNumber').value;
     var address = document.getElementById('address').value;
 
-
+// This was written by 1Codealot <https://github.com/1Codealot>
     document.getElementById("postFullName").innerHTML = firstName + " " + lastName;
     document.getElementById("postAge").innerHTML = "Age: " + age;
     document.getElementById("postPhoneNumber").innerHTML = "Phone number: " + phoneNumber;
